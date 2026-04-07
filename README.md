@@ -197,14 +197,6 @@ BeWealth uses SQL Server with the following main tables:
 
 ---
 
-## 👨‍💻 Author
-
-**Santiago de la Mora Martinez**  
-Finance Engineering Student — ITESO, Guadalajara, Mexico  
-[GitHub: @SantiagodlM-git](https://github.com/SantiagodlM-git) · [santidelamora@outlook.com](mailto:santidelamora@outlook.com)
-
----
-
 ## 🏢 Organization
 
 Developed under **[BeWealth LLC](https://github.com/BeWealth-LLC)**
