@@ -3,13 +3,15 @@
 I'm Santiago de la Mora Martinez
 Currently studying Financial Engineering at ITESO, and working on a startup called BeWealth, that uses AI trained models to help the user in different ways
 
-
 # 📈 BeWealth
 
 > Personal investment management web platform with real-time technical analysis.
 
-> **NOTE**
+> [!NOTE]
 > **Can't find the repository?** This project does not live in my personal repositories, but inside the **BeWealth LLC** organization on GitHub. To access it, go to my profile [@SantiagodlM-git](https://github.com/SantiagodlM-git), look for the **Organizations** section in the bottom left and click on the **BeWealth** icon — that will take you directly to the organization and its repositories.
+
+> [!IMPORTANT]
+> **🔒 Private Repository** — This project is currently under active development and the repository is private. If you're interested in learning more or collaborating, feel free to reach out at [santidelamora@outlook.com](mailto:santidelamora@outlook.com)
 
 BeWealth is a full-stack application built for individual investors to manage their portfolios, track financial assets, and receive alerts based on technical indicators like RSI — all in one place.
 
@@ -194,6 +196,14 @@ BeWealth uses SQL Server with the following main tables:
 - **`datos_diarios`** — Historical price data (OHLCV)
 - **`alertas_cambio_grupos`** / **`alertas_cambio_items`** — Alert system
 - **`IndicadoresMercado`** — Real-time indicators (USD/MXN, etc.)
+
+---
+
+## 👨‍💻 Author
+
+**Santiago de la Mora Martinez**  
+Finance Engineering Student — ITESO, Guadalajara, Mexico  
+[GitHub: @SantiagodlM-git](https://github.com/SantiagodlM-git) · [santidelamora@outlook.com](mailto:santidelamora@outlook.com)
 
 ---
 
